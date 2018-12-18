@@ -1,0 +1,6 @@
+<?php
+// Firebase API Key
+//define('FIREBASE_API_KEY', 'AIzaSyClRcfHv8LuDhJbPrzCKj4GIPJe_BmXNTw');
+//define('FIREBASE_API_KEY', 'AIzaSyAb93uxlU2gubR62dB_AsO7v9hZTAMfxtQ');
+define('FIREBASE_API_KEY', 'AAAAV_tg_LA:APA91bHwH6KFpldOz9Z11NgH9qLnKHgiTB3gMRdVIXrTtfGS43F5N_z_1OLq4wo1YMVnCLiJj-DMrMHmSbCQeUDC6vnfDfPo1B-7Z-GyMDoVKqNv-kXFEVTmELJpSZRBfH_m7ffAiUeQ');
+//define('FIREBASE_API_KEY', 'AIzaSyDD3rynlUInsN9k_dHvMPArtRO72Jntgtc');
